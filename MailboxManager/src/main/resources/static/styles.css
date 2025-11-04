@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+input, button {
+    margin-bottom: 10px;
+}
+
+#recipient-list {
+    margin-bottom: 20px;
+}
